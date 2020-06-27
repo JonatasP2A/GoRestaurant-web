@@ -2,11 +2,11 @@
   "foods": [
     {
       "id": 1,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Ao molho",
+      "price": "30,50",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "available": true
     },
     {
       "id": 2,
@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Pizza",
+      "price": "35,90",
+      "description": "Pizza de calabresa",
+      "available": true
+    },
+    {
+      "id": 5,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Sei la",
+      "price": "54",
+      "description": "sei la description",
+      "available": true
     }
   ]
 }
